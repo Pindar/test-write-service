@@ -1,0 +1,7 @@
+{
+  "name": "test-influxdb",
+  "dependencies": {
+    "influx": "^4.0.0",
+    "kafka-node": "^0.2.27"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "boss": true,
+  "eqnull": true,
+  "browser": false,
+  "expr": true,
+  "forin": false,
+  "noempty": true,
+  "plusplus": false,
+  "regexp": true,
+  "unused": true,
+  "strict": false,
+  "trailing": true,
+  "smarttabs": false,
+  "jquery": false,
+  "white": false,
+  "onevar": false,
+  "nomen": false,
+  "globals": {
+    "require": true,
+    "process": true,
+    "console": true
+  }
+}
